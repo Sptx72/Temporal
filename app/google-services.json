@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569184365724",
+    "project_id": "temporal-3dff4",
+    "storage_bucket": "temporal-3dff4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569184365724:android:677c1401d2b153a6a9d159",
+        "android_client_info": {
+          "package_name": "com.example.temporal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569184365724-ej8u01ha85g8o4o84e4sn29khli5o0c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAizpEEeyTpl6dnSsWaH3jPRaHr7pB11o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569184365724-ej8u01ha85g8o4o84e4sn29khli5o0c4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

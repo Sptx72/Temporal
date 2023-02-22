@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Temporal</string>
+    <string name="login">Inicia Sesión</string>
+    <string name="register">Registrate</string>
+    <string name="email">Correo</string>
+    <string name="password">Contraseña</string>
+    <string name="confirm_password">Confirmar contraseña</string>
+    <string name="login_failed_reason">Correo o contraseña incorrecto</string>
+    <string name="not_an_email">No es un correo válido</string>
+    <string name="passwords_dont_match">Las contraseñas no coinciden</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="profile">Perfil</string>
+    <string name="home">Inicio</string>
+    <string name="menu">Menu</string>
+    <string name="data">Datos</string>
+    <string name="name">Nombre</string>
+    <string name="last_name">Apellidos</string>
+    <string name="phone">Teléfono</string>
+    <string name="finalize">Finalizar</string>
+    <string name="change_data">Cambiar datos</string>
+    <string name="error_data">Ha ocurrido un error al cargar los datos, porfavor vuelva a iniciar sesión</string>
+    <string name="sign_out">Cerrar sesión</string>
+    <string name="save_changes">Guardar cambios</string>
+    <string name="description">Descripcion</string>
+    <string name="jobs">Empleos</string>
+    <string name="no_jobs">Sin referencias de empleo</string>
+    <string name="job_name">Nombre del trabajo</string>
+    <string name="image">imagen</string>
+    <string name="search">Buscar</string>
+</resources>
